@@ -14,3 +14,14 @@ Your group report in the README.md file should include the following sections.
 4.	Discussion
 5.	Contributors	(i.e. names and workload distribution)
 
+Submission of Group Report and Dataset
+The final submission should be pushed to a GitHub repository, with these required items.
+•	A group report added to README.md, containing
+•	a detailed description of the scope and the rationale of the project (which can be a research question or a general problem)
+•	the data collection process
+•	annotation
+•	file structure and naming conventions
+•	meaning of the columns in textual data
+•	relevant licensing issues and ethical concerns (if any)
+•	potential use cases and future development.
+•	Data files (raw and processed), which should be structured in a way that is deemed appropriate.
