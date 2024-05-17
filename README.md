@@ -34,6 +34,7 @@ The final submission should be pushed to a GitHub repository, with these require
 •	potential use cases and future development.
 
 •	Data files (raw and processed), which should be structured in a way that is deemed appropriate.
+
 Introduction: In the rapidly evolving domain of digital marketing, understanding the nuances of advertisement strategies is crucial for brands aiming to capture and sustain consumer attention. This report delves into the world of YouTube advertisements, offering a comprehensive analysis of linguistic and persuasive techniques utilized across various digital campaigns. By examining a curated dataset of short advertisements, we aim to decode the elements that make digital marketing efforts successful in today's competitive landscape.
 
 Descriptive Data: The primary dataset for this study consists of 50 YouTube short advertisements, ranging in duration from 20 to 40 seconds. These advertisements span a period from 1986 to 2024, providing a broad temporal landscape to analyze changes and trends in advertising strategies. The advertisements are in English and Cantonese, reflecting a dual-language approach that caters to diverse demographic segments. Each advertisement has been transcribed, segmented, and annotated with detailed metadata that includes language, engagement levels, type of humor, emotional appeals, and the presence of cultural or social references.
