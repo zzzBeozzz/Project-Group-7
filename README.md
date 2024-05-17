@@ -45,7 +45,7 @@ To what extent do cultural and social references within advertisements influence
 This examines whether integrating cultural nuances enhances the relatability and impact of advertisements on various audience segments.
 
 The findings from this report are intended to contribute significantly to the understanding of digital advertising dynamics, providing actionable insights for marketers, advertisers, and media strategists. By dissecting the components of successful advertisements, this research will highlight effective strategies that can be leveraged in future digital marketing campaigns.
-
+#
 # Discussion 
 
 ## Findings
