@@ -1,0 +1,12 @@
+Title: Emotions-30 Sec
+
+Time Frame 	Character 	Dialogue 
+0:00	      man	        At Jersey Mike's, they slice your order fresh, right in front of you.
+0:04	      man	        And let me tell you, watching that can send a rush of emotions through a person
+0:09	      man	         <+>Excitement</+> <->Impatience</->. baby-like wonder, <->indecisive</-> anticipatory chewing
+0:16	      man	         <->Nervous</-> pacing. <+>Happy</+> claps.
+0:18	      man	      and finally, <->jealousy</->
+0:21	      man	      Because that's this guy's sub.
+0:23	      man	      I should order <#>one</#>. <&>hmm</&>,<+> Good</+> idea
+0:26	      man	      Sliced right in front of you.
+0:27	      man	      The Jersey Mike's thing. A sub above.
