@@ -1,7 +1,0 @@
-<#>...</#>. 	numbers 
-
-<&>...</&>	Exclamation
-
-<+>...</+>	Positive
-
-<->...</->	Negative
