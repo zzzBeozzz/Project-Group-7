@@ -1,6 +1,6 @@
 Title: Apple Pay The Dance Apple 
 
-Time Frame  Character 	Dialogue                              
+Time Frame  Character 	  Dialogue                              
 
  0:00	      Cashier	    That'll be $<#>64.55</#>.
  0:01	      Cashier	    You can insert your card when you're ready.
