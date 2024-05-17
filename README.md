@@ -45,6 +45,11 @@ To what extent do cultural and social references within advertisements influence
 This examines whether integrating cultural nuances enhances the relatability and impact of advertisements on various audience segments.
 
 The findings from this report are intended to contribute significantly to the understanding of digital advertising dynamics, providing actionable insights for marketers, advertisers, and media strategists. By dissecting the components of successful advertisements, this research will highlight effective strategies that can be leveraged in future digital marketing campaigns.
+
+## Methodology
+
+The collection of advertisements includes a wide range of 20 to 40 second YouTube videos. We aim to collect solid and effective narrative-style data since the advertisements are usually concise. YouTube is one of the most popular video platforms globally. These bite-sized advertising are available in both English and Cantonese languages. The advertisement data spans from 1986 to 2024. The advertisements have been categorized and the labels and data have been manually checked and inserted into an Excel spreadsheet for further analysis. By organizing this advertisement data into an Excel spreadsheet, videos can be systematically sorted, filtered, and analyzed based on criteria like video title, description, link and duration. It is effective to do data categorization using spreadsheet. The dataset of advertisements has been annotated to detect linguistic elements like the usage of exclamations, positive and negative words, in addition to its categorical organization. This allows for an analysis of the persuasive tactics, emotional appeals, and general tone and sentiment expressed in the advertisement content.
+
 #
 # Discussion 
 
