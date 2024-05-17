@@ -33,8 +33,6 @@ Group Report| Yuki, Faye, Ken, Ali|
 
 In the rapidly evolving domain of digital marketing, understanding the nuances of advertisement strategies is crucial for brands aiming to capture and sustain consumer attention. This report delves into the world of YouTube advertisements, offering a comprehensive analysis of linguistic and persuasive techniques utilized across various digital campaigns. By examining a curated dataset of short advertisements, we aim to decode the elements that make digital marketing efforts successful in today's competitive landscape.
 
-Descriptive Data: The primary dataset for this study consists of 50 YouTube short advertisements, ranging in duration from 20 to 40 seconds. These advertisements span a period from 1986 to 2024, providing a broad temporal landscape to analyze changes and trends in advertising strategies. The advertisements are in English and Cantonese, reflecting a dual-language approach that caters to diverse demographic segments. Each advertisement has been transcribed, segmented, and annotated with detailed metadata that includes language, engagement levels, type of humor, emotional appeals, and the presence of cultural or social references.
-
 Research Questions
 The core of this investigative report revolves around several pivotal research questions:
 How do linguistic features within these advertisements correlate with viewer engagement and brand identity?
