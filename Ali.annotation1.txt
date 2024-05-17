@@ -1,0 +1,23 @@
+Title: Apple Pay The Dance Apple 
+
+Time Frame  Character 	Dialogue                              
+
+ 0:00	      Cashier	    That'll be $<#>64.55</#>.
+ 0:01	      Cashier	    You can insert your card when you're ready.
+ 0:03	      Cashier	    <&>I...</&> think you took it out just a little fast.
+ 0:06	      Cashier	    Reinsert it and wait till it beeps.
+ 0:08	      Cashier	    <&>Oops...</&> that one was a little slow. 
+ 0:10	      Customer 	  <&>Ahh...</&>
+ 0:11	      Customer 	  You said wait for the beep!
+ 0:12	      Cashier	    There are <#>two</#> beeps. 
+ 0:13	      Cashier	    There's a <&>beep </&>
+ 0:14	      Cashier	    And then you're going to wait for a<&>...beep</&>
+ 0:16	      Cashier	    It's a little... You hear the difference?
+ 0:17	      Customer 	  <&>Ah...no...</&>
+ 0:18	      Cashier	    Try putting it in flat like you're landing a plane.
+ 0:21	      Cashier	    Just...
+ 0:23	      Cashier	    I'll count you down.
+ 0:23	      Cashier	    <#>Three, two, one...</#>
+ 0:25	      Cashier	    <&>Uh</&>...hold... <&>Um</&>, take it out and...
+ 0:28	      Cashier	    <#>Three, two...</#>
+ 0:29	      Customer 	  Okay, I got it.
