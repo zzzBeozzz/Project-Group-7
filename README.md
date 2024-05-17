@@ -33,7 +33,6 @@ Group Report| Yuki, Faye, Ken, Ali|
 
 In the rapidly evolving domain of digital marketing, understanding the nuances of advertisement strategies is crucial for brands aiming to capture and sustain consumer attention. This report delves into the world of YouTube advertisements, offering a comprehensive analysis of linguistic and persuasive techniques utilized across various digital campaigns. By examining a curated dataset of short advertisements, we aim to decode the elements that make digital marketing efforts successful in today's competitive landscape.
 
-Research Questions
 The core of this investigative report revolves around several pivotal research questions:
 How do linguistic features within these advertisements correlate with viewer engagement and brand identity?
 This question seeks to explore the relationship between specific language use, such as humor and storytelling, and the effectiveness of the ads in terms of audience engagement.
