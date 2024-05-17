@@ -74,4 +74,12 @@ Lastly, there are technical issues we faced while doing data collection and anno
 
 Lastly, while doing data annotations, we struggle to use AI tools such as text-to-speech function or Merlin AI, a YouTube video transcript tool, since the inaccuracy rate was quite high, leading us use to type the advertisement manually which is much more time consuming and tiring. Similarly, some videos provided transcript however the accuracy is doubtable, also the timestamps of the videos are often wrongly indicated, so we decided to manually type the time frame as well. 
 
+## Further Studies and Improvements 
 
+An increase in diversity is needed by including advertisements from a wider range aspects, such as more government related, airline services and so on, to further analysis the word of choice, the professionalism in their videos.  
+
+It is also important to view the incorporate analysis of visual elements in addition to linguistic aspects, in annotations and our data cleaning and data segmentation, we left out or analysis less on the visual aspects, so that definitely need to be seen at and do more research on, to see how it contributes to YouTube advertisement.  
+
+The data files and raw files serves as a track and analyse changes in advertising strategies over time, to indicate whether advertisement style is going to change or see more similarity aspects that most advertisement uses overtime. 
+
+To increase our efficiency and better on transcription, the urge to explore the use of machine learning models to automate processes are highly anticipated, search for better tools to acquire latest advertisements and tools to transcript YouTube advertisement more accurately. 
