@@ -1,4 +1,4 @@
-# Project-Group-7
+# LIN3046 LANGUAGE INFORMATION MANAGEMENT Project-Group-7
 Lam Kit Ying 11420451 
 
 Lee Kam Hung 11488714
