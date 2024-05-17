@@ -1,13 +1,31 @@
 # LIN3046 LANGUAGE INFORMATION MANAGEMENT 
-## Project-Group-7
+# Project-Group-7
+
+## Name and SID
 Lam Kit Ying 11420451 
 
 Lee Kam Hung 11488714
 
 Chau Pui Faye 11420750
 
-Zaheer Ali Akbar 11488702
+ Zaheer Ali Akbar 11488702
 
+# 
+
+## Contribution Table
+|tasks|name(s)|
+|---|---|
+Collect YouTube videos| Yuki, Faye, Ken, Ali|
+Excel listing| Yuki, Faye, Ken, Ali| 
+Data cleaning, segmentation| Yuki, Faye, Ken, Ali| 
+Annotation| Yuki, Faye, Ken, Ali| 
+Hold meetings| Ali, Yuki|
+Finalizing datasets| Ken, Faye|
+Powerpoint script| Ken, Ali| 
+Powerpoint design| Faye, Yuki| 
+Group Report| Yuki, Faye, Ken, Ali| 
+
+#
 
 2.	Data	a. Transcription (Audio only), b. Segmentation, c. Metadata, d. Annotation
 3.	Methodology	a. Collection, b. Cleaning, c. Analysis
