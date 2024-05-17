@@ -83,3 +83,9 @@ It is also important to view the incorporate analysis of visual elements in addi
 The data files and raw files serves as a track and analyse changes in advertising strategies over time, to indicate whether advertisement style is going to change or see more similarity aspects that most advertisement uses overtime. 
 
 To increase our efficiency and better on transcription, the urge to explore the use of machine learning models to automate processes are highly anticipated, search for better tools to acquire latest advertisements and tools to transcript YouTube advertisement more accurately. 
+
+## Conclusion 
+
+In conclusion, the advertisements provide insights into modern digital advertising strategies, showing effective message delivery in a limited duration. Analyzing the linguistic features and persuasive elements used, not only indicates how word of choice and means to convey messages affect appeals, but also contributes to understanding the evolving advertising landscape. The advertisement indicates the effectiveness and meaning of linguistics, showing the importance of what could be appealing and attract people to view, thus providing an insight into what nowadays digital realm creators are currently utilizing to make successful videos, whether it is superb linguistic features or stunning visual effects, it is worth taking a deep dive into. 
+
+
