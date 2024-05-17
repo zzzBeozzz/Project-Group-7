@@ -60,7 +60,7 @@ Segmenting advertisements according to different standards offers insightful inf
 
 For the metadata of the data, this project focused on language, dialogue, views and background music such as dramatic, neutral, soothing or none. It also do the data cleaning to removed the irrelevant data such as comments, subscribers, and captions, to see the data clearer and not interfere annotation. 
 
-For annotation, there are some tags to represents the numbers, exclamation words, positive and negative words in the dialogues which are <#>...</#>, <&>...</&>, <+>...</+>, <->...</-> respectively. There are some examples that we choose from the example dialogues. For example, <#>64.55</#>.
+For [annotation](Annotationlist.txt "annotation") , there are some tags to represents the numbers, exclamation words, positive and negative words in the dialogues which are <#>...</#>, <&>...</&>, <+>...</+>, <->...</-> respectively. There are some examples that we choose from the example dialogues. For example, <#>64.55</#>.
 
 Also, to rename the files of the data, the format of the name of the files are the same which is name.annotation.number.file type txt. The reason why chossing this format to rename the files of the data is easier to reand and it can see the contribution.
 
