@@ -51,3 +51,14 @@ To what extent do cultural and social references within advertisements influence
 This examines whether integrating cultural nuances enhances the relatability and impact of advertisements on various audience segments.
 
 The findings from this report are intended to contribute significantly to the understanding of digital advertising dynamics, providing actionable insights for marketers, advertisers, and media strategists. By dissecting the components of successful advertisements, this research will highlight effective strategies that can be leveraged in future digital marketing campaigns.
+
+# Discussion 
+
+## Findings
+
+Based on the observations, the linguistic and persuasive strategies used in modern digital advertising often leverage specific elements to captivate and engage the audience. 
+
+The use of dramatic-style background music in many advertisements suggests a strategic attempt to evoke emotions and heighten the viewer's engagement with the content. Humorous advertisements, such as the one from Doritos, resonate particularly well with audiences, indicating that the strategic use of humor can be an effective persuasive tool.
+
+Furthermore, the analysis suggests that dialogues incorporating exclamations are more commonly used, potentially to convey a sense of excitement or urgency. Conversely, advertisements without a clear narrative structure or dialogue appear to be less popular, emphasizing the importance of storytelling and engaging language in modern digital advertising, a good example of this could be seen from the KFC with Jack Harlow, the video has many exclamation, exaggerating the feelings, the delivery of messages attracts customers. 
+The prevalence of techniques like exclamations, irony, and special effects in highly viewed advertisements, such as those from Apple, conveying irony to other products that cannot pay accordingly, comments are filled with peals of laughter and the views of the video are quite high as seen from the raw file of YouTube lists, Keung To for Coke Zero uses many special effects and strong use of words, highlighting the word of choice affects the views. This further highlights the significance of these linguistic and visual elements in capturing the audience's attention and shaping their perceptions. These findings suggest that brands actively leverage a combination of linguistic, auditory, and visual strategies to create captivating and persuasive digital advertising experiences.
