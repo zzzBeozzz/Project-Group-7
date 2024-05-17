@@ -68,7 +68,7 @@ Also, to rename the files of the data, the format of the name of the files are t
 #
 # Discussion 
 
-## Findings
+## Findings and analysis 
 
 Based on the observations, the linguistic and persuasive strategies used in modern digital advertising often leverage specific elements to captivate and engage the audience. 
 
