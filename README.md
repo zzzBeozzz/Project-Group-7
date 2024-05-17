@@ -44,6 +44,15 @@ This examines whether integrating cultural nuances enhances the relatability and
 
 The findings from this report are intended to contribute significantly to the understanding of digital advertising dynamics, providing actionable insights for marketers, advertisers, and media strategists. By dissecting the components of successful advertisements, this research will highlight effective strategies that can be leveraged in future digital marketing campaigns.
 
+
+## Methodology
+
+The collection of advertisements includes a wide range of 20 to 40 second YouTube videos. We aim to collect solid and effective narrative-style data since the advertisements are usually concise. YouTube is one of the most popular video platforms globally. These bite-sized advertising are available in both English and Cantonese languages. The advertisement data spans from 1986 to 2024. 
+
+After the initial data gathering, the advertisement files went through a thorough cleaning and preprocessing stage. The advertisements have been categorized and the labels and data have been manually checked and inserted into an Excel spreadsheet for further analysis. By organizing this advertisement data into an Excel spreadsheet, videos can be systematically sorted, filtered, and analyzed based on criteria like video title, description, link and duration. It is effective to do data categorization using spreadsheet which they are categorized based on language and product type. 
+
+The dataset of advertisements has been annotated to detect linguistic elements like the usage of exclamations, positive and negative words, in addition to its categorical organization. This allows for an analysis of the persuasive tactics, emotional appeals, and general tone and sentiment expressed in the advertisement content. The dataset was created to be easily navigable and interpretable by establishing clear column definitions and consistent file naming guidelines.
+
 ## Data
 In order to do transcription on the data, this project used three methods which are text-to-speech function, merlin AI and some are manually typed. 
 
@@ -54,14 +63,6 @@ For the metadata of the data, this project focused on language, dialogue, views 
 For annotation, there are some tags to represents the numbers, exclamation words, positive and negative words in the dialogues which are <#>...</#>, <&>...</&>, <+>...</+>, <->...</-> respectively. There are some examples that we choose from the example dialogues. For example, <#>64.55</#>.
 
 Also, to rename the files of the data, the format of the name of the files are the same which is name.annotation.number.file type txt. The reason why chossing this format to rename the files of the data is easier to reand and it can see the contribution.
-
-## Methodology
-
-The collection of advertisements includes a wide range of 20 to 40 second YouTube videos. We aim to collect solid and effective narrative-style data since the advertisements are usually concise. YouTube is one of the most popular video platforms globally. These bite-sized advertising are available in both English and Cantonese languages. The advertisement data spans from 1986 to 2024. 
-
-After the initial data gathering, the advertisement files went through a thorough cleaning and preprocessing stage. The advertisements have been categorized and the labels and data have been manually checked and inserted into an Excel spreadsheet for further analysis. By organizing this advertisement data into an Excel spreadsheet, videos can be systematically sorted, filtered, and analyzed based on criteria like video title, description, link and duration. It is effective to do data categorization using spreadsheet which they are categorized based on language and product type. 
-
-The dataset of advertisements has been annotated to detect linguistic elements like the usage of exclamations, positive and negative words, in addition to its categorical organization. This allows for an analysis of the persuasive tactics, emotional appeals, and general tone and sentiment expressed in the advertisement content. The dataset was created to be easily navigable and interpretable by establishing clear column definitions and consistent file naming guidelines.
 
 
 #
