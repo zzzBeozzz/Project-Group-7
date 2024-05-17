@@ -35,7 +35,7 @@ The final submission should be pushed to a GitHub repository, with these require
 
 •	Data files (raw and processed), which should be structured in a way that is deemed appropriate.
 
-#Introduction
+## Introduction
 
 In the rapidly evolving domain of digital marketing, understanding the nuances of advertisement strategies is crucial for brands aiming to capture and sustain consumer attention. This report delves into the world of YouTube advertisements, offering a comprehensive analysis of linguistic and persuasive techniques utilized across various digital campaigns. By examining a curated dataset of short advertisements, we aim to decode the elements that make digital marketing efforts successful in today's competitive landscape.
 
