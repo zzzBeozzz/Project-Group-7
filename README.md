@@ -27,19 +27,6 @@ Group Report| Yuki, Faye, Ken, Ali|
 
 #
 
-2.	Data	a. Transcription (Audio only), b. Segmentation, c. Metadata, d. Annotation
-3.	Methodology	a. Collection, b. Cleaning, c. Analysis
-
-
-
-
-•	the data collection process
-
-•	annotation
-
-•	file structure and naming conventions
-
-•	meaning of the columns in textual data
 
 
 ## Introduction
