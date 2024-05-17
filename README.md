@@ -46,6 +46,17 @@ This examines whether integrating cultural nuances enhances the relatability and
 
 The findings from this report are intended to contribute significantly to the understanding of digital advertising dynamics, providing actionable insights for marketers, advertisers, and media strategists. By dissecting the components of successful advertisements, this research will highlight effective strategies that can be leveraged in future digital marketing campaigns.
 
+## Data
+In order to do transcription on the data, this project used three methods which are text-to-speech function, merlin AI and some are manually typed. 
+
+Segmenting advertisements according to different standards offers insightful information about their influence and efficacy. Product categories are a crucial criteria because they allow advertisers to focus and customise their advertising to the interests of particular audiences. Separating advertisements based on their objectives also makes it possible to examine which approaches work best for educating, entertaining, or convincing audiences. High vs low interaction is another factor that helps determine which material most appeals to users based on metrics like views, likes, shares, and comments. Comprehending the nature of call-to-action included in advertisements, be it website visitation, subscription, or purchase, provides valuable information about viewer behaviour and aids in campaign optimisation. Finally, dividing advertisements into segments according to storytelling vs demonstration techniques enables an evaluation of the efficacy of various creative methods. Advertisers may improve their messaging and creative components, better understand their target demographic, and maximise the effectiveness of their ad campaigns by utilising these segments. 
+
+For the metadata of the data, this project focused on language, dialogue, views and background music such as dramatic, neutral, soothing or none. It also do the data cleaning to removed the irrelevant data such as comments, subscribers, and captions, to see the data clearer and not interfere annotation. 
+
+For annotation, there are some tags to represents the numbers, exclamation words, positive and negative words in the dialogues which are <#>...</#>, <&>...</&>, <+>...</+>, <->...</-> respectively. There are some examples that we choose from the example dialogues. For example, <#>64.55</#>.
+
+Also, to rename the files of the data, the format of the name of the files are the same which is name.annotation.number.file type txt. The reason why chossing this format to rename the files of the data is easier to reand and it can see the contribution.
+
 ## Methodology
 
 The collection of advertisements includes a wide range of 20 to 40 second YouTube videos. We aim to collect solid and effective narrative-style data since the advertisements are usually concise. YouTube is one of the most popular video platforms globally. These bite-sized advertising are available in both English and Cantonese languages. The advertisement data spans from 1986 to 2024. 
