@@ -1,0 +1,13 @@
+Title: The KFC x Jack Harlow Meal 
+
+Time Frame   	Character 	   Dialogue 
+0:00	        narrator 	     hold up jack i know that's <->not no</-> spicy chicken sandwich
+0:03	        Jack 	           <+>yes</+> it is
+0:04	        narrator 	    you put mac and cheese on that too 
+0:06	        narrator 	    secret recipe fries 
+0:07	        Jack 	          <+>that's right</+> 
+0:08	        narrator 	      <&>ohhh</&> the rench 
+0:09	        narrator 	   we should just make this my meal
+0:11	        Jack 	          <&>yeah</&> I gotta have it 
+0:13	        narrator 	      <&>hahahahahaha</&>
+0:15	        narrator 	   it's <+>good</+>
