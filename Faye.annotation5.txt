@@ -1,0 +1,7 @@
+Title: Pau-Pau's Adventure | Bubble Tea Bay\
+
+Time Frame 	Character 	Dialogue 
+0.00-0.02	  Panda	      <&>Hmm</&>
+0.02-0.04	  Narrator	  Bubble tea
+0.11-0.12	  Panda	      <&>Wow</&>
+0.29-0.30	  Panda	      Food Panda
