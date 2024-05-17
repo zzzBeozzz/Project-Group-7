@@ -30,7 +30,7 @@ Group Report| Yuki, Faye, Ken, Ali|
 2.	Data	a. Transcription (Audio only), b. Segmentation, c. Metadata, d. Annotation
 3.	Methodology	a. Collection, b. Cleaning, c. Analysis
 
-5.	Contributors	(i.e. names and workload distribution)
+
 
 
 •	the data collection process
