@@ -7,7 +7,7 @@ Time Frame  Character 	Dialogue
  0:03	      Cashier	    <&>I...</&> think you took it out just a little fast.
  0:06	      Cashier	    Reinsert it and wait till it beeps.
  0:08	      Cashier	    <&>Oops...</&> that one was a little slow. 
- 0:10	      Customer 	  <&>Ahh...</&>
+ 0:10	      Customer 	    <&>Ahh...</&>
  0:11	      Customer 	  You said wait for the beep!
  0:12	      Cashier	    There are <#>two</#> beeps. 
  0:13	      Cashier	    There's a <&>beep </&>
